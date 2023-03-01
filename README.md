@@ -1,4 +1,4 @@
-# Do-trends-in-C02-emissions-impact-natural-disasters-
+# Effects of Climate Change on Natural Disasters
 
 Climate  change  has  created  a  series  of  adverse  effects  on  our  planet.  Is  it  causing  an  effect  on  the 
 frequency and severity of natural disasters across the globe? If so, can governments save human lives and 
